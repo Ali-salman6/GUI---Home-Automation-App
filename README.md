@@ -30,7 +30,7 @@
     pip install pillow opencv-python pygame
     ```
 
-3. Make sure you have the following files in the same directory as the script:
+3. Make sure you have the following `files` in the same directory as the script:
     - `home.ico`
     - `mobile-in-hand.png`
     - `camera.png`
