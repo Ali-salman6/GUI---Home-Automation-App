@@ -1,4 +1,4 @@
-# GUI - Home-Automation-App
+# GUI - Home Automation App
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a9c6be7-d42c-46ce-a206-8d96b1c3a9e1" width="600" height="600">
